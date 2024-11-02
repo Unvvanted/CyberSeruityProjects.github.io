@@ -12,7 +12,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Project 1 Example Bad USB made from a rasbarry pi pico
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+In this project I obtain a rasbarry pi pico and programed a set of intution to be executed when plued into a comuter or laptop
 
 ## Header 2
 
