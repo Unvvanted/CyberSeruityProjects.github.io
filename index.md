@@ -10,7 +10,7 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Project 1 Example Bad USB made from a rasbarry pi pico
+# Project 1: Example Bad USB made from a rasbarry pi pico
 
 In this project I obtain a rasbarry pi pico and programed a set of intution to be executed when plued into a comuter or laptop
 
@@ -62,7 +62,7 @@ end
 
 * * *
 
-# Project 2 Analyze Network Traffic with TCPDump: Build a Logging Tool
+# Project 2: Wireshark for Beginners: Capture Packets
 
 ### Here is an unordered list:
 
