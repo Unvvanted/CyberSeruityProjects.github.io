@@ -65,6 +65,8 @@ end
 # Project 2: Wireshark: Capture Packets
 
 ## Description
+### First I installed wireshark onto an ubantu linux op
+### Secoundly 
 
 ## picture
 
