@@ -66,7 +66,7 @@ end
 
 ## Description
 
-##picture
+## picture
 
 ### Here is an unordered list:
 
