@@ -62,7 +62,7 @@ end
 
 * * *
 
-# Project 2: Wireshark for Beginners: Capture Packets
+# Project 2: Wireshark: Capture Packets
 
 ## Description
 
