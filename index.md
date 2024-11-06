@@ -67,7 +67,7 @@ end
 ## Description
  First I installed wireshark onto an ubantu linux op
  Secoundly i made sure to add a user to wireshark so I do not use it as a super user
-
+ Thirdly i capuserd packed on a net work
 ## picture
 
 ### Here is an unordered list:
