@@ -65,8 +65,8 @@ end
 # Project 2: Wireshark: Capture Packets
 
 ## Description
-### First I installed wireshark onto an ubantu linux op
-### Secoundly 
+ First I installed wireshark onto an ubantu linux op
+ Secoundly i made sure to add a user to wireshark so I do not use it as a super user
 
 ## picture
 
