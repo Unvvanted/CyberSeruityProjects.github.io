@@ -68,7 +68,8 @@ end
  First I installed wireshark onto an ubantu linux op
  Secoundly i made sure to add a user to wireshark so I do not use it as a super user
  Thirdly i capuserd packed on a net work
-## picture
+ 
+![Branching](Screenshot 2024-11-07 153605.png)
 
 ### Here is an unordered list:
 
@@ -105,8 +106,6 @@ end
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 ### Large image
-
-![Branching](Screenshot 2024-11-07 153605.png)
 
 
 ### Definition lists can be used with HTML syntax.
