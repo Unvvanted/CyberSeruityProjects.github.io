@@ -106,7 +106,7 @@ end
 
 ### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Branching](Screenshot 2024-11-07 153605.png)
 
 
 ### Definition lists can be used with HTML syntax.
