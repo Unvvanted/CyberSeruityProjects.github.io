@@ -6,7 +6,7 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
+
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
@@ -14,8 +14,8 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 ## Description
  First I installed wireshark onto an ubantu linux op
- Secoundly i made sure to add a user to wireshark so I do not use it as a super user
- Thirdly i capuserd packed on a net work
+ Secoundly I made sure to add a user to wireshark so I do not use it as a super user
+ Thirdly I capuserd packed on a net work
  
 ![Branching](Screenshot 2024-11-07 153605.png)
 
@@ -39,12 +39,6 @@ var fun = function lang(l) {
 }
 ```
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
 
 #### Header 4
 
