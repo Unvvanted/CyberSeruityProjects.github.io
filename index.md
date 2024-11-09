@@ -10,9 +10,14 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Project 1: Example Bad USB made from a rasbarry pi pico
+# Project 1: Wireshark: Capture Packets
 
-In this project I obtain a rasbarry pi pico and programed a set of intution to be executed when plued into a comuter or laptop
+## Description
+ First I installed wireshark onto an ubantu linux op
+ Secoundly i made sure to add a user to wireshark so I do not use it as a super user
+ Thirdly i capuserd packed on a net work
+ 
+![Branching](Screenshot 2024-11-07 153605.png)
 
 ## Header 2
 
@@ -62,14 +67,11 @@ end
 
 * * *
 
-# Project 2: Wireshark: Capture Packets
 
-## Description
- First I installed wireshark onto an ubantu linux op
- Secoundly i made sure to add a user to wireshark so I do not use it as a super user
- Thirdly i capuserd packed on a net work
- 
-![Branching](Screenshot 2024-11-07 153605.png)
+
+# Project 2: Example Bad USB made from a rasbarry pi pico
+
+In this project I obtain a rasbarry pi pico and programed a set of intution to be executed when plued into a comuter or laptop
 
 ### Here is an unordered list:
 
