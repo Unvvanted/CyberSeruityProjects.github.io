@@ -13,53 +13,16 @@ There should be whitespace between paragraphs. We recommend including a README, 
 # Project 1: Wireshark: Capture Packets
 
 ## Description
- First I installed wireshark onto an ubantu linux op
- Secoundly I made sure to add a user to wireshark so I do not use it as a super user
- Thirdly I capuserd packed on a net work
+ First I installed wireshark onto an ubantu linux.
+ Secoundly I made sure to add a user to wireshark so I do not use it as a super user.
+ Thirdly I capuserd packed on a net work.
  
 ![Branching](Screenshot 2024-11-07 153605.png)
 
-Forth I capured tcp packges and filltered by ip and port 443 (HTTPS)
+Forth I capured tcp packges and filltered by ip and port 443 (HTTPS).
 
 ![Branching](Wireshark_ip_filter.PNG)
 
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
 
 ### There's a horizontal rule below this.
 
