@@ -34,6 +34,8 @@ I wrote code to capure and save TCP data
 
 ![Octocat](Saved_TCP_Code)
 
+![Octocat](Saved_TCP_in_WireShark)
+
 
 # Project 3: Example Bad USB made from a rasbarry pi pico
 
