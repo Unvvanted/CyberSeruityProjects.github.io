@@ -34,10 +34,15 @@ I wrote code to capure and save TCP data
 
 ![Octocat](Saved_TCP_Code)
 
+I Saved TCP data into wireshark for futher analsis
+
 ![Octocat](Saved_TCP_in_WireShark)
 
+I saved multipe files of TCP data that were 1000 byte long
 
 ![Octocat](Multiple_file_TCPDump)
+
+useing sslkey file to safe keys and help decrypt files 
 
 
 
