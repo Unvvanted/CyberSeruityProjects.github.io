@@ -47,7 +47,12 @@ useing sslkey file to safe keys and help decrypt files
 ![Octocat](Screenshot 2024-11-14 132142.png)
 
 
-# Project 3: Example Bad USB made from a rasbarry pi pico
+# Project 3: Malware Creation
+
+RandomWare:
+
+
+# Project 4: Example Bad USB made from a rasbarry pi pico
 
 In this project I obtain a rasbarry pi pico and programed a set of intution to be executed when plued into a comuter or laptop
 
