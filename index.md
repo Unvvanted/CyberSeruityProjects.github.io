@@ -44,6 +44,7 @@ I saved multipe files of TCP data that were 1000 byte long
 
 useing sslkey file to safe keys and help decrypt files 
 
+![Octocat](Screenshot 2024-11-14 132142.png)
 
 
 # Project 3: Example Bad USB made from a rasbarry pi pico
