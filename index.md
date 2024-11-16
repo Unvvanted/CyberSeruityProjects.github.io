@@ -49,7 +49,9 @@ useing sslkey file to safe keys and help decrypt files
 
 # Project 3: Malware Creation
 
-RandomWare:
+RandomWare: i craeted a simpe ransomware to study in my malware lab by,
+  1. creating a encryption scriped in python
+  2. created a decryption scriped in python
 
 
 # Project 4: Example Bad USB made from a rasbarry pi pico
