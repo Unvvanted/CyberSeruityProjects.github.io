@@ -51,6 +51,7 @@ useing sslkey file to safe keys and help decrypt files
 
 RandomWare: i craeted a simpe ransomware to study in my malware lab by,
   1. creating a encryption scriped in python
+     
   2. created a decryption scriped in python
 
 
