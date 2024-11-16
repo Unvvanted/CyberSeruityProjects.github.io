@@ -53,6 +53,7 @@ RandomWare: i craeted a simpe ransomware to study in my malware lab by,
   1. creating a encryption scriped in python
 ![Octocat](encrypt.png)
   2. created a decryption scriped in python
+![Octocat](decrypt.png)
 
 
 # Project 4: Example Bad USB made from a rasbarry pi pico
