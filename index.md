@@ -55,10 +55,8 @@ RandomWare: i craeted a simpe ransomware to study in my malware lab by,
   2. created a decryption scriped in python
 ![Octocat](decrypt.png)
 
-
-# Project 4: Example Bad USB made from a rasbarry pi pico
-
-In this project I obtain a rasbarry pi pico and programed a set of intution to be executed when plued into a comuter or laptop
+# Project 4: Malware analysis Lab
+In this project I created a iolated malware analysis enviorment 
 
 
 
