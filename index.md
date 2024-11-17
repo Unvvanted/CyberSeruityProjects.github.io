@@ -71,7 +71,7 @@ In this project I created a iolated malware analysis enviorment
 
 <dl>
 <dt>Name</dt>
-<dd>Conner</dd>
+<dd>Conner Cunningham</dd>
 <dt>Born</dt>
 <dd>20002</dd>
 <dt>Birthplace</dt>
