@@ -92,7 +92,7 @@ I used a windows 10 VM where I was going to get the malware and I used REMnux fo
 <dt>Name</dt>
 <dd>Conner Cunningham</dd>
 <dt>Born</dt>
-<dd>20002</dd>
+<dd>2002</dd>
 <dt>Birthplace</dt>
 <dd>Canada</dd>
 </dl>
