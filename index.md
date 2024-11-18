@@ -75,6 +75,8 @@ RandomWare: i craeted a simpe ransomware to study in my malware lab by,
 
 In this project I created a iolated malware analysis enviorment 
 
+I used a windows 10 VM where I was going to get the malware and I used REMnux for anaylsis
+
 
 
 ### Small image
