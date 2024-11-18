@@ -16,10 +16,12 @@ There should be whitespace between paragraphs. We recommend including a README, 
  First I installed wireshark onto an ubantu linux.
  Secoundly I made sure to add a user to wireshark so I do not use it as a super user.
  Thirdly I capuserd packed on a net work.
+
  
 ![Branching](Screenshot 2024-11-07 153605.png)
 
 Forth I capured tcp packges and filltered by ip and port 443 (HTTPS).
+
 
 ![Branching](Wireshark_ip_filter.PNG)
 
@@ -32,28 +34,40 @@ Forth I capured tcp packges and filltered by ip and port 443 (HTTPS).
 
 I wrote code to capure and save TCP data
 
+
 ![Octocat](Saved_TCP_Code)
+
 
 I Saved TCP data into wireshark for futher analsis
 
+
 ![Octocat](Saved_TCP_in_WireShark)
+
 
 I saved multipe files of TCP data that were 1000 byte long
 
+
 ![Octocat](Multiple_file_TCPDump)
+
 
 useing sslkey file to safe keys and help decrypt files 
 
+
 ![Octocat](Screenshot 2024-11-14 132142.png)
+
 
 
 # Project 3: Malware Creation
 
 RandomWare: i craeted a simpe ransomware to study in my malware lab by,
   1. creating a encryption scriped in python
+
 ![Octocat](encrypt.png)
+
   2. created a decryption scriped in python
+
 ![Octocat](decrypt.png)
+
 
  I made this randome ware so I can use it for my Malware analysis Lab
 
