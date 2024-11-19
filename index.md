@@ -64,7 +64,7 @@ RandomWare: i craeted a simpe ransomware to study in my malware lab by,
 
 ![Octocat](encrypt.png)
 
-  2. created a decryption scriped in python
+  2. created a decryption scriped in python that was copyed from the encrypttion scriped
 
 ![Octocat](decrypt.png)
 
@@ -75,7 +75,7 @@ RandomWare: i craeted a simpe ransomware to study in my malware lab by,
 
 In this project I created a iolated malware analysis enviorment 
 
-I used a windows 10 VM where I was going to get the malware and I used REMnux for anaylsis
+I used a windows 10 VM where I was going to get malware and I used REMnux for anaylsis
 
 
 
