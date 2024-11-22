@@ -79,7 +79,7 @@ I used a windows 10 VM where I was going to get malware and I used REMnux for an
 
 i created a snappshot of Windows to reshort if somthing went wrong
 
-![Octocat](decrypt.png)
+![Octocat](Windows_Base.png)
 
 ### Small image
 
