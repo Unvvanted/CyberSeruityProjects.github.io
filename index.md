@@ -60,11 +60,11 @@ useing sslkey file to safe keys and help decrypt files
 # Project 3: Malware Creation
 
 RandomWare: i craeted a simpe ransomware to study in my malware lab by,
-  1. creating a encryption scriped in python
+  1. Created a basic encryption scriped/Ransomware in python 
 
 ![Octocat](encrypt.png)
 
-  2. created a decryption scriped in python that was copyed from the encrypttion scriped
+  2. Created a decryption scriped in python that was copyed from the encrypttion scriped
 
 ![Octocat](decrypt.png)
 
