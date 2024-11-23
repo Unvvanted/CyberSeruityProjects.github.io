@@ -77,7 +77,7 @@ In this project I created a iolated malware analysis enviorment
 
 I used a windows 10 VM where I was going to get malware and I used REMnux for anaylsis
 
-i created a snappshot of Windows to reshort if somthing went wrong
+I created a snappshot of Windows to reshort if somthing went wrong in the installation of flare
 
 ![Octocat](Windows_Base.png)
 
