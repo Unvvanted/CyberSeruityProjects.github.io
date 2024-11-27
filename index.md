@@ -74,7 +74,11 @@ RandomWare: i craeted a simpe ransomware to study in my malware lab by,
 
  I made this randome ware so I can use it for my Malware analysis Lab
 
-# Project 4: Malware analysis Lab
+
+# Project 4: SIEM TOOL
+
+
+# Project 5: Malware analysis Lab
 
 In this project I created a iolated malware analysis enviorment 
 
@@ -85,15 +89,7 @@ I created a snappshot of Windows to reshort if somthing went wrong in the instal
 ![Octocat](Windows_Base.png)
 
 
-# Project 5: Vunalbillity Managment System 
-
-# Project 6: SIEM TOOL
-
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
+# Project 6: Vunalbillity Managment System 
 
 
 
