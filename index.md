@@ -14,11 +14,14 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 ## Description
  First I installed wireshark onto my ubantu linux.
+ 
  Secoundly I made sure to add a user to wireshark so I do not use it as a super user.
+ 
  Thirdly I capuserd a packed on a network.
 
  
 ![Branching](Screenshot 2024-11-07 153605.png)
+
 
 Next I capured tcp packges and filltered by ip and port 443 (HTTPS).
 
@@ -38,7 +41,7 @@ I wrote code to capure and save TCP data
 ![Octocat](Saved_TCP_Code)
 
 
-I Saved TCP data into wireshark for futher analsis
+I Saved TCP data into wireshark for futher analsys
 
 
 ![Octocat](Saved_TCP_in_WireShark)
@@ -50,7 +53,7 @@ I saved multipe files of TCP data that were 1000 byte long
 ![Octocat](Multiple_file_TCPDump)
 
 
-useing sslkey file to safe keys and help decrypt files 
+Using sslkey file to safe keys and help decrypt files 
 
 
 ![Octocat](Screenshot 2024-11-14 132142.png)
