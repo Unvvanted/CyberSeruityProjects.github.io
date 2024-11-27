@@ -87,7 +87,7 @@ I created a snappshot of Windows to reshort if somthing went wrong in the instal
 
 # Project 5: Vunalbillity Managment System 
 
-# Project 6: STEAM TOOL
+# Project 6: SIEM TOOL
 
 
 ### Small image
