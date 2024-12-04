@@ -105,6 +105,7 @@ I created a snappshot of Windows to reshort if somthing went wrong in the instal
 
 # Project 7: Bootible Flash Drive
 
+## Description
 
 
 ### Definition lists can be used with HTML syntax.
