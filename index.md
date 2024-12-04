@@ -108,8 +108,6 @@ I created a snappshot of Windows to reshort if somthing went wrong in the instal
 ## Description
 
 
-### Definition lists can be used with HTML syntax.
-
 <dl>
 <dt>Name</dt>
 <dd>Conner Cunningham</dd>
