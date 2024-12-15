@@ -13,9 +13,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 # Project 1: Wireshark: Capture Packets
 
 ## Description
- First I installed wireshark onto my ubantu linux.
- 
- Secoundly I made sure to add a user to wireshark so I do not use it as a super user.
+ First I installed wireshark onto my ubantu linux OS. Then I made sure to add a user to wireshark so I do not use it as a super user.
  
  Thirdly I capuserd a packed on a network.
 
