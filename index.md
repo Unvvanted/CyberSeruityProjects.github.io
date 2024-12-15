@@ -15,7 +15,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 ## Description
  First I installed wireshark onto my ubantu linux OS. Then I made sure to add a user to wireshark so I do not use it as a super user.
  
- Thirdly I capuserd a packed on a network.
+ Next I capuserd a packed on a network.
 
  
 ![Branching](Screenshot 2024-11-07 153605.png)
