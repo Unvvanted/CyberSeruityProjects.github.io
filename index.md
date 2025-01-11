@@ -13,7 +13,7 @@ layout: default
 ![Branching](Screenshot 2024-11-07 153605.png)
 
 
-Next I capured tcp packges and filltered by ip and port 443 (HTTPS).
+Next I filltered by ip and port 443 (HTTPS).
 
 
 ![Branching](Wireshark_ip_filter.PNG)
