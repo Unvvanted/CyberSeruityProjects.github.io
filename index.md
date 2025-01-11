@@ -6,9 +6,8 @@ layout: default
 # Project 1: Wireshark: Capture Packets
 
 ## Description
- First I installed wireshark onto my ubantu linux OS. Then I made sure to add a user to wireshark so I do not use it as a super user.
- 
- Next I capuserd a packed on a network.
+ First I installed wireshark onto my ubantu linux OS.
+ Next I captured a TCP packed on a Webdite.
 
  
 ![Branching](Screenshot 2024-11-07 153605.png)
