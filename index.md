@@ -64,39 +64,6 @@ RandomWare: i craeted a simpe ransomware to study in my malware lab by,
 ![Octocat](decrypt.png)
 
 
- I made this randome ware so I can use it for my Malware analysis Lab
-
-
-# Project 4: SIEM TOOL
-
-## Description
-
-Created a elastic account
-
-
-
-# Project 5: Malware analysis Lab
-
-
-## Description
-
-In this project I created a iolated malware analysis enviorment 
-
-I used a windows 10 VM where I was going to get malware and I used REMnux for anaylsis
-
-I created a snappshot of Windows to reshort if somthing went wrong in the installation of flare
-
-![Octocat](Windows_Base.png)
-
-
-# Project 6: Vunalbillity Managment System 
-
-## Description
-
-# Project 7: Bootible Flash Drive
-
-## Description
-
 
 <dl>
 <dt>Name</dt>
